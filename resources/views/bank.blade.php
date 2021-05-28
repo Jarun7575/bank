@@ -7,7 +7,7 @@ td, th, tr {
 }
 svg.w-5.h-5 {
     width: 1%;
-}
+} 
 </style>
 </head>
 <body>
